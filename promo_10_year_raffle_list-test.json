@@ -1,0 +1,3156 @@
+{
+  "raffle_list": [
+    {
+      "alias": "aug",
+      "date_from": "2020-08-01 00:00:00",
+      "date_from_timestamp": "1604181610",
+      "date_to": "2020-08-30 23:59:59",
+      "date_to_timestamp": "1606773599",
+      "draw_date": "2020-12-04 00:00:00",
+      "draw_date_timestamp": "1617032800",
+      "status": "ended",
+      "is_visible": true,
+      "winning_combination_list": {
+         "1": {
+            "prize": 20000,
+            "symbol1": "AAPL",
+            "price1": "114.97",
+            "symbol2": "AMZN",
+            "price2": "3,190.55",
+            "combination": "497055",
+            "coupon_number": ""
+         }
+      },
+      "coupon_list": {
+         "234561": {
+            "number": "234561",
+            "raffle_alias": "aug",
+            "cdate": "2020-08-09 09:42:22",
+            "type": "partner"
+         },
+         "768001": {
+            "number": "768001",
+            "raffle_alias": "aug",
+            "cdate": "2020-08-09 09:42:24",
+            "type": "partner"
+         }
+      },
+        "coupon_count": 2
+   },
+    {
+      "alias": "sep",
+      "date_from": "2020-09-01 00:00:00",
+      "date_from_timestamp": "1604181230",
+      "date_to": "2020-09-30 23:59:59",
+      "date_to_timestamp": "1606773599",
+      "draw_date": "2020-12-04 00:00:00",
+      "draw_date_timestamp": "1607032801",
+      "status": "final",
+      "is_visible": true,
+      "winning_combination_list": {
+         "1": {
+            "prize": 20000,
+            "symbol1": "AAPL",
+            "price1": "114.97",
+            "symbol2": "AMZN",
+            "price2": "3,190.55",
+            "combination": "497055",
+            "coupon_number": ""
+         },
+         "2": {
+            "prize": 10000,
+            "symbol1": "AMZN",
+            "price1": "3,190.55",
+            "symbol2": "AAPL",
+            "price2": "114.97",
+            "combination": "055497",
+            "coupon_number": ""
+         },
+         "3": {
+            "prize": 10000,
+            "symbol1": "MSFT",
+            "price1": "210.58",
+            "symbol2": "GOOGL",
+            "price2": "1,483.43",
+            "combination": "058343",
+            "coupon_number": ""
+         }
+      },
+      "coupon_list": {
+         "783512": {
+            "number": "783512",
+            "raffle_alias": "sep",
+            "cdate": "2020-08-09 09:42:22",
+            "type": "partner"
+         },
+         "783511": {
+            "number": "783511",
+            "raffle_alias": "sep",
+            "cdate": "2020-08-09 09:42:22",
+            "type": "partner"
+         }
+      },
+        "coupon_count": 2
+   },
+     {
+        "alias": "oct",
+        "date_from": "2020-10-01 00:00:00",
+        "date_from_timestamp": "1601499600",
+        "date_to": "2020-10-31 23:59:59",
+        "date_to_timestamp": "1604181599",
+        "draw_date": "2020-11-06 00:00:00",
+        "draw_date_timestamp": "1604613600",
+        "status": "ongoing",
+        "is_visible": true,
+        "winning_combination_list": {
+           "1": {
+              "prize": 20000,
+              "symbol1": "AAPL",
+              "price1": "114.97",
+              "symbol2": "AMZN",
+              "price2": "3,190.55",
+              "combination": "497055",
+              "coupon_number": ""
+           },
+           "2": {
+              "prize": 10000,
+              "symbol1": "AMZN",
+              "price1": "3,190.55",
+              "symbol2": "AAPL",
+              "price2": "114.97",
+              "combination": "055497",
+              "coupon_number": ""
+           },
+           "3": {
+              "prize": 10000,
+              "symbol1": "MSFT",
+              "price1": "210.58",
+              "symbol2": "GOOGL",
+              "price2": "1,483.43",
+              "combination": "058343",
+              "coupon_number": ""
+           },
+           "4": {
+              "prize": 5000,
+              "symbol1": "GOOGL",
+              "price1": "1,483.43",
+              "symbol2": "MSFT",
+              "price2": "210.58",
+              "combination": "343058",
+              "coupon_number": ""
+           },
+           "5": {
+              "prize": 5000,
+              "symbol1": "FB",
+              "price1": "263.76",
+              "symbol2": "BRK-B",
+              "price2": "215.15",
+              "combination": "376515",
+              "coupon_number": ""
+           },
+           "6": {
+              "prize": 5000,
+              "symbol1": "BRK-B",
+              "price1": "215.15",
+              "symbol2": "FB",
+              "price2": "263.76",
+              "combination": "515376",
+              "coupon_number": ""
+           },
+           "7": {
+              "prize": 5000,
+              "symbol1": "V",
+              "price1": "202.98",
+              "symbol2": "TSLA",
+              "price2": "425.92",
+              "combination": "298592",
+              "coupon_number": ""
+           },
+           "8": {
+              "prize": 3000,
+              "symbol1": "TSLA",
+              "price1": "425.92",
+              "symbol2": "V",
+              "price2": "202.98",
+              "combination": "592298",
+              "coupon_number": ""
+           },
+           "9": {
+              "prize": 3000,
+              "symbol1": "WMT",
+              "price1": "141.36",
+              "symbol2": "JNJ",
+              "price2": "148.89",
+              "combination": "136889",
+              "coupon_number": ""
+           },
+           "10": {
+              "prize": 3000,
+              "symbol1": "JNJ",
+              "price1": "148.89",
+              "symbol2": "WMT",
+              "price2": "141.36",
+              "combination": "889136",
+              "coupon_number": ""
+           },
+           "11": {
+              "prize": 3000,
+              "symbol1": "PG",
+              "price1": "141.65",
+              "symbol2": "NVDA",
+              "price2": "553.55",
+              "combination": "165355",
+              "coupon_number": ""
+           },
+           "12": {
+              "prize": 3000,
+              "symbol1": "NVDA",
+              "price1": "553.55",
+              "symbol2": "PG",
+              "price2": "141.65",
+              "combination": "355165",
+              "coupon_number": ""
+           },
+           "13": {
+              "prize": 2000,
+              "symbol1": "JPM",
+              "price1": "101.78",
+              "symbol2": "ADBE",
+              "price2": "490.84",
+              "combination": "178084",
+              "coupon_number": ""
+           },
+           "14": {
+              "prize": 2000,
+              "symbol1": "ADBE",
+              "price1": "490.84",
+              "symbol2": "JPM",
+              "price2": "101.78",
+              "combination": "084178",
+              "coupon_number": ""
+           },
+           "15": {
+              "prize": 2000,
+              "symbol1": "NFLX",
+              "price1": "531.79",
+              "symbol2": "PYPL",
+              "price2": "193.06",
+              "combination": "179306",
+              "coupon_number": ""
+           },
+           "16": {
+              "prize": 2000,
+              "symbol1": "PYPL",
+              "price1": "193.06",
+              "symbol2": "NFLX",
+              "price2": "531.79",
+              "combination": "306179",
+              "coupon_number": ""
+           },
+           "17": {
+              "prize": 2000,
+              "symbol1": "VZ",
+              "price1": "59.19",
+              "symbol2": "DIS",
+              "price2": "123.09",
+              "combination": "919309",
+              "coupon_number": ""
+           },
+           "18": {
+              "prize": 2000,
+              "symbol1": "DIS",
+              "price1": "123.09",
+              "symbol2": "VZ",
+              "price2": "59.19",
+              "combination": "309919",
+              "coupon_number": ""
+           },
+           "19": {
+              "prize": 2000,
+              "symbol1": "BAC",
+              "price1": "25.24",
+              "symbol2": "INTC",
+              "price2": "53.37",
+              "combination": "524337",
+              "coupon_number": ""
+           },
+           "20": {
+              "prize": 1000,
+              "symbol1": "INTC",
+              "price1": "53.37",
+              "symbol2": "BAC",
+              "price2": "25.24",
+              "combination": "337524",
+              "coupon_number": ""
+           },
+           "21": {
+              "prize": 1000,
+              "symbol1": "KO",
+              "price1": "50.46",
+              "symbol2": "CMCSA",
+              "price2": "45.30",
+              "combination": "046530",
+              "coupon_number": ""
+           },
+           "22": {
+              "prize": 1000,
+              "symbol1": "CMCSA",
+              "price1": "45.30",
+              "symbol2": "KO",
+              "price2": "50.46",
+              "combination": "530046",
+              "coupon_number": ""
+           },
+           "23": {
+              "prize": 1000,
+              "symbol1": "PFE",
+              "price1": "36.89",
+              "symbol2": "PEP",
+              "price2": "137.85",
+              "combination": "689785",
+              "coupon_number": ""
+           },
+           "24": {
+              "prize": 1000,
+              "symbol1": "PEP",
+              "price1": "137.85",
+              "symbol2": "PFE",
+              "price2": "36.89",
+              "combination": "785689",
+              "coupon_number": ""
+           },
+           "25": {
+              "prize": 1000,
+              "symbol1": "NKE",
+              "price1": "129.71",
+              "symbol2": "CSCO",
+              "price2": "39.79",
+              "combination": "971979",
+              "coupon_number": ""
+           },
+           "26": {
+              "prize": 1000,
+              "symbol1": "CSCO",
+              "price1": "39.79",
+              "symbol2": "NKE",
+              "price2": "129.71",
+              "combination": "979971",
+              "coupon_number": ""
+           },
+           "27": {
+              "prize": 1000,
+              "symbol1": "ORCL",
+              "price1": "60.89",
+              "symbol2": "XOM",
+              "price2": "35.26",
+              "combination": "089526",
+              "coupon_number": ""
+           },
+           "28": {
+              "prize": 1000,
+              "symbol1": "XOM",
+              "price1": "35.26",
+              "symbol2": "ORCL",
+              "price2": "60.89",
+              "combination": "526089",
+              "coupon_number": ""
+           },
+           "29": {
+              "prize": 1000,
+              "symbol1": "MCD",
+              "price1": "225.80",
+              "symbol2": "CVX",
+              "price2": "75.22",
+              "combination": "580522",
+              "coupon_number": ""
+           },
+           "30": {
+              "prize": 1000,
+              "symbol1": "CVX",
+              "price1": "75.22",
+              "symbol2": "MCD",
+              "price2": "225.80",
+              "combination": "522580",
+              "coupon_number": ""
+           }
+        },
+        "coupon_list": {
+           "960991": {
+              "number": "960991",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:16:07",
+              "type": "trader"
+           },
+           "472251": {
+              "number": "472251",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:16:11",
+              "type": "trader"
+           },
+           "380037": {
+              "number": "380037",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:16:11",
+              "type": "trader"
+           },
+           "508608": {
+              "number": "508608",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:16:18",
+              "type": "trader"
+           },
+           "893739": {
+              "number": "893739",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:16:21",
+              "type": "trader"
+           },
+           "686220": {
+              "number": "686220",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:16:45",
+              "type": "trader"
+           },
+           "935981": {
+              "number": "935981",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:16:54",
+              "type": "trader"
+           },
+           "191801": {
+              "number": "191801",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:17:26",
+              "type": "trader"
+           },
+           "434228": {
+              "number": "434228",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:17:33",
+              "type": "trader"
+           },
+           "059542": {
+              "number": "059542",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:17:41",
+              "type": "trader"
+           },
+           "977805": {
+              "number": "977805",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:18:20",
+              "type": "trader"
+           },
+           "463846": {
+              "number": "463846",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:18:23",
+              "type": "trader"
+           },
+           "079734": {
+              "number": "079734",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:18:41",
+              "type": "trader"
+           },
+           "951600": {
+              "number": "951600",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:18:46",
+              "type": "trader"
+           },
+           "830781": {
+              "number": "830781",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:18:58",
+              "type": "trader"
+           },
+           "208296": {
+              "number": "208296",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:20:20",
+              "type": "trader"
+           },
+           "431090": {
+              "number": "431090",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:20:42",
+              "type": "trader"
+           },
+           "855039": {
+              "number": "855039",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:20:45",
+              "type": "trader"
+           },
+           "419861": {
+              "number": "419861",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:20:56",
+              "type": "trader"
+           },
+           "041139": {
+              "number": "041139",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:21:14",
+              "type": "trader"
+           },
+           "256623": {
+              "number": "256623",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:21:25",
+              "type": "trader"
+           },
+           "728638": {
+              "number": "728638",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:21:31",
+              "type": "trader"
+           },
+           "947803": {
+              "number": "947803",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:21:52",
+              "type": "trader"
+           },
+           "567430": {
+              "number": "567430",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:21:54",
+              "type": "trader"
+           },
+           "510998": {
+              "number": "510998",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:21:56",
+              "type": "trader"
+           },
+           "048454": {
+              "number": "048454",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:22:04",
+              "type": "trader"
+           },
+           "574520": {
+              "number": "574520",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:22:15",
+              "type": "trader"
+           },
+           "045156": {
+              "number": "045156",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:22:24",
+              "type": "trader"
+           },
+           "308758": {
+              "number": "308758",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:22:45",
+              "type": "trader"
+           },
+           "900109": {
+              "number": "900109",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:22:54",
+              "type": "trader"
+           },
+           "359709": {
+              "number": "359709",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:22:56",
+              "type": "trader"
+           },
+           "598249": {
+              "number": "598249",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:23:05",
+              "type": "trader"
+           },
+           "954127": {
+              "number": "954127",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:23:15",
+              "type": "trader"
+           },
+           "077209": {
+              "number": "077209",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:24:05",
+              "type": "trader"
+           },
+           "015515": {
+              "number": "015515",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:24:19",
+              "type": "trader"
+           },
+           "819272": {
+              "number": "819272",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:24:39",
+              "type": "trader"
+           },
+           "195733": {
+              "number": "195733",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:25:37",
+              "type": "trader"
+           },
+           "780760": {
+              "number": "780760",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:25:57",
+              "type": "trader"
+           },
+           "967846": {
+              "number": "967846",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:26:01",
+              "type": "trader"
+           },
+           "482840": {
+              "number": "482840",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:26:01",
+              "type": "trader"
+           },
+           "558236": {
+              "number": "558236",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:26:01",
+              "type": "trader"
+           },
+           "610829": {
+              "number": "610829",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:26:06",
+              "type": "trader"
+           },
+           "239684": {
+              "number": "239684",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:26:27",
+              "type": "trader"
+           },
+           "601940": {
+              "number": "601940",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:26:49",
+              "type": "trader"
+           },
+           "769944": {
+              "number": "769944",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:26:50",
+              "type": "trader"
+           },
+           "776641": {
+              "number": "776641",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:26:57",
+              "type": "trader"
+           },
+           "907686": {
+              "number": "907686",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 00:27:00",
+              "type": "trader"
+           },
+           "050122": {
+              "number": "050122",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 08:42:28",
+              "type": "partner"
+           },
+           "472620": {
+              "number": "472620",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 08:42:40",
+              "type": "partner"
+           },
+           "484706": {
+              "number": "484706",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 08:42:49",
+              "type": "partner"
+           },
+           "456719": {
+              "number": "456719",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 08:43:23",
+              "type": "partner"
+           },
+           "958389": {
+              "number": "958389",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 08:43:52",
+              "type": "partner"
+           },
+           "634617": {
+              "number": "634617",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 08:46:45",
+              "type": "partner"
+           },
+           "821760": {
+              "number": "821760",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 08:48:00",
+              "type": "partner"
+           },
+           "041519": {
+              "number": "041519",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 08:50:05",
+              "type": "partner"
+           },
+           "997404": {
+              "number": "997404",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 08:52:40",
+              "type": "partner"
+           },
+           "057302": {
+              "number": "057302",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 08:52:57",
+              "type": "partner"
+           },
+           "518194": {
+              "number": "518194",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 08:54:01",
+              "type": "partner"
+           },
+           "202599": {
+              "number": "202599",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 08:54:21",
+              "type": "partner"
+           },
+           "566612": {
+              "number": "566612",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 08:54:42",
+              "type": "partner"
+           },
+           "114079": {
+              "number": "114079",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 08:57:39",
+              "type": "partner"
+           },
+           "809562": {
+              "number": "809562",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 08:57:39",
+              "type": "partner"
+           },
+           "016682": {
+              "number": "016682",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 08:57:51",
+              "type": "partner"
+           },
+           "122838": {
+              "number": "122838",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 08:57:59",
+              "type": "partner"
+           },
+           "770541": {
+              "number": "770541",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 08:58:45",
+              "type": "partner"
+           },
+           "411220": {
+              "number": "411220",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 08:58:55",
+              "type": "partner"
+           },
+           "898153": {
+              "number": "898153",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 08:59:08",
+              "type": "partner"
+           },
+           "864952": {
+              "number": "864952",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 09:02:25",
+              "type": "partner"
+           },
+           "912972": {
+              "number": "912972",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 09:02:27",
+              "type": "partner"
+           },
+           "307750": {
+              "number": "307750",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 09:03:32",
+              "type": "partner"
+           },
+           "273064": {
+              "number": "273064",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 09:04:48",
+              "type": "partner"
+           },
+           "000285": {
+              "number": "000285",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 09:05:15",
+              "type": "partner"
+           },
+           "833763": {
+              "number": "833763",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 09:05:57",
+              "type": "partner"
+           },
+           "117315": {
+              "number": "117315",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 09:06:25",
+              "type": "partner"
+           },
+           "583672": {
+              "number": "583672",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 09:06:29",
+              "type": "partner"
+           },
+           "528448": {
+              "number": "528448",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 09:07:31",
+              "type": "partner"
+           },
+           "038282": {
+              "number": "038282",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 09:07:32",
+              "type": "partner"
+           },
+           "345621": {
+              "number": "345621",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 09:09:26",
+              "type": "partner"
+           },
+           "326443": {
+              "number": "326443",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 09:09:52",
+              "type": "partner"
+           },
+           "032041": {
+              "number": "032041",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 09:10:43",
+              "type": "partner"
+           },
+           "202441": {
+              "number": "202441",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 09:12:08",
+              "type": "partner"
+           },
+           "332380": {
+              "number": "332380",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 09:12:59",
+              "type": "partner"
+           },
+           "869686": {
+              "number": "869686",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 09:14:39",
+              "type": "partner"
+           },
+           "932114": {
+              "number": "932114",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 09:17:03",
+              "type": "partner"
+           },
+           "455735": {
+              "number": "455735",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 09:17:37",
+              "type": "partner"
+           },
+           "046854": {
+              "number": "046854",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 09:18:27",
+              "type": "partner"
+           },
+           "861404": {
+              "number": "861404",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-02 09:19:38",
+              "type": "partner"
+           },
+           "378797": {
+              "number": "378797",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:16:08",
+              "type": "trader"
+           },
+           "054298": {
+              "number": "054298",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:16:17",
+              "type": "trader"
+           },
+           "340915": {
+              "number": "340915",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:16:22",
+              "type": "trader"
+           },
+           "041262": {
+              "number": "041262",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:16:51",
+              "type": "trader"
+           },
+           "919162": {
+              "number": "919162",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:17:50",
+              "type": "trader"
+           },
+           "990920": {
+              "number": "990920",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:18:08",
+              "type": "trader"
+           },
+           "625327": {
+              "number": "625327",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:18:20",
+              "type": "trader"
+           },
+           "242348": {
+              "number": "242348",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:18:21",
+              "type": "trader"
+           },
+           "363646": {
+              "number": "363646",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:18:31",
+              "type": "trader"
+           },
+           "411202": {
+              "number": "411202",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:18:58",
+              "type": "trader"
+           },
+           "245934": {
+              "number": "245934",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:18:59",
+              "type": "trader"
+           },
+           "708150": {
+              "number": "708150",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:19:28",
+              "type": "trader"
+           },
+           "374501": {
+              "number": "374501",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:19:31",
+              "type": "trader"
+           },
+           "321876": {
+              "number": "321876",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:19:58",
+              "type": "trader"
+           },
+           "762884": {
+              "number": "762884",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:20:29",
+              "type": "trader"
+           },
+           "419279": {
+              "number": "419279",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:20:31",
+              "type": "trader"
+           },
+           "701923": {
+              "number": "701923",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:20:40",
+              "type": "trader"
+           },
+           "254071": {
+              "number": "254071",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:21:08",
+              "type": "trader"
+           },
+           "111574": {
+              "number": "111574",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:21:29",
+              "type": "trader"
+           },
+           "629201": {
+              "number": "629201",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:21:48",
+              "type": "trader"
+           },
+           "410762": {
+              "number": "410762",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:21:49",
+              "type": "trader"
+           },
+           "732014": {
+              "number": "732014",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:22:02",
+              "type": "trader"
+           },
+           "855078": {
+              "number": "855078",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:22:27",
+              "type": "trader"
+           },
+           "384830": {
+              "number": "384830",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:22:29",
+              "type": "trader"
+           },
+           "454332": {
+              "number": "454332",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:23:18",
+              "type": "trader"
+           },
+           "355709": {
+              "number": "355709",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:23:21",
+              "type": "trader"
+           },
+           "192552": {
+              "number": "192552",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:25:11",
+              "type": "trader"
+           },
+           "359817": {
+              "number": "359817",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:25:17",
+              "type": "trader"
+           },
+           "575444": {
+              "number": "575444",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:26:09",
+              "type": "trader"
+           },
+           "961789": {
+              "number": "961789",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:26:10",
+              "type": "trader"
+           },
+           "210708": {
+              "number": "210708",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 00:26:20",
+              "type": "trader"
+           },
+           "049474": {
+              "number": "049474",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 08:41:46",
+              "type": "partner"
+           },
+           "892602": {
+              "number": "892602",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 08:43:39",
+              "type": "partner"
+           },
+           "950808": {
+              "number": "950808",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 08:44:25",
+              "type": "partner"
+           },
+           "643280": {
+              "number": "643280",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 08:44:43",
+              "type": "partner"
+           },
+           "793007": {
+              "number": "793007",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 08:45:12",
+              "type": "partner"
+           },
+           "755761": {
+              "number": "755761",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 08:46:22",
+              "type": "partner"
+           },
+           "868251": {
+              "number": "868251",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 08:47:47",
+              "type": "partner"
+           },
+           "049725": {
+              "number": "049725",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 08:48:44",
+              "type": "partner"
+           },
+           "309406": {
+              "number": "309406",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 08:52:41",
+              "type": "partner"
+           },
+           "863902": {
+              "number": "863902",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 08:52:45",
+              "type": "partner"
+           },
+           "922213": {
+              "number": "922213",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 08:52:45",
+              "type": "partner"
+           },
+           "189314": {
+              "number": "189314",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 08:53:13",
+              "type": "partner"
+           },
+           "277812": {
+              "number": "277812",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 08:53:15",
+              "type": "partner"
+           },
+           "386187": {
+              "number": "386187",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 08:53:48",
+              "type": "partner"
+           },
+           "653922": {
+              "number": "653922",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 08:56:19",
+              "type": "partner"
+           },
+           "153546": {
+              "number": "153546",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 08:56:51",
+              "type": "partner"
+           },
+           "838809": {
+              "number": "838809",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 08:56:59",
+              "type": "partner"
+           },
+           "373315": {
+              "number": "373315",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 08:57:08",
+              "type": "partner"
+           },
+           "155471": {
+              "number": "155471",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 08:57:22",
+              "type": "partner"
+           },
+           "092542": {
+              "number": "092542",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 08:57:43",
+              "type": "partner"
+           },
+           "985064": {
+              "number": "985064",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 08:58:07",
+              "type": "partner"
+           },
+           "563000": {
+              "number": "563000",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 08:58:28",
+              "type": "partner"
+           },
+           "259181": {
+              "number": "259181",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 08:58:31",
+              "type": "partner"
+           },
+           "882392": {
+              "number": "882392",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 08:58:47",
+              "type": "partner"
+           },
+           "950168": {
+              "number": "950168",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 08:59:36",
+              "type": "partner"
+           },
+           "704744": {
+              "number": "704744",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 09:00:35",
+              "type": "partner"
+           },
+           "247822": {
+              "number": "247822",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 09:00:49",
+              "type": "partner"
+           },
+           "403496": {
+              "number": "403496",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 09:00:57",
+              "type": "partner"
+           },
+           "224097": {
+              "number": "224097",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 09:01:10",
+              "type": "partner"
+           },
+           "254001": {
+              "number": "254001",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 09:01:45",
+              "type": "partner"
+           },
+           "383812": {
+              "number": "383812",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 09:02:45",
+              "type": "partner"
+           },
+           "347209": {
+              "number": "347209",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 09:03:32",
+              "type": "partner"
+           },
+           "824144": {
+              "number": "824144",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 09:03:33",
+              "type": "partner"
+           },
+           "682843": {
+              "number": "682843",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 09:05:23",
+              "type": "partner"
+           },
+           "812533": {
+              "number": "812533",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 09:05:56",
+              "type": "partner"
+           },
+           "781752": {
+              "number": "781752",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 09:06:07",
+              "type": "partner"
+           },
+           "261135": {
+              "number": "261135",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-03 09:06:55",
+              "type": "partner"
+           },
+           "575588": {
+              "number": "575588",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-05 08:01:39",
+              "type": "partner"
+           },
+           "154554": {
+              "number": "154554",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:16:08",
+              "type": "trader"
+           },
+           "653835": {
+              "number": "653835",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:16:08",
+              "type": "trader"
+           },
+           "996833": {
+              "number": "996833",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:16:19",
+              "type": "trader"
+           },
+           "753633": {
+              "number": "753633",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:16:19",
+              "type": "trader"
+           },
+           "367658": {
+              "number": "367658",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:16:27",
+              "type": "trader"
+           },
+           "904519": {
+              "number": "904519",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:16:31",
+              "type": "trader"
+           },
+           "635804": {
+              "number": "635804",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:16:40",
+              "type": "trader"
+           },
+           "041406": {
+              "number": "041406",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:17:02",
+              "type": "trader"
+           },
+           "375863": {
+              "number": "375863",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:17:18",
+              "type": "trader"
+           },
+           "057786": {
+              "number": "057786",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:17:27",
+              "type": "trader"
+           },
+           "921141": {
+              "number": "921141",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:17:47",
+              "type": "trader"
+           },
+           "587342": {
+              "number": "587342",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:19:18",
+              "type": "trader"
+           },
+           "621910": {
+              "number": "621910",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:19:22",
+              "type": "trader"
+           },
+           "580597": {
+              "number": "580597",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:19:31",
+              "type": "trader"
+           },
+           "684897": {
+              "number": "684897",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:19:51",
+              "type": "trader"
+           },
+           "106088": {
+              "number": "106088",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:19:52",
+              "type": "trader"
+           },
+           "258976": {
+              "number": "258976",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:20:00",
+              "type": "trader"
+           },
+           "304136": {
+              "number": "304136",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:20:10",
+              "type": "trader"
+           },
+           "402955": {
+              "number": "402955",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:20:12",
+              "type": "trader"
+           },
+           "742430": {
+              "number": "742430",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:20:21",
+              "type": "trader"
+           },
+           "868017": {
+              "number": "868017",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:20:29",
+              "type": "trader"
+           },
+           "225929": {
+              "number": "225929",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:20:48",
+              "type": "trader"
+           },
+           "680272": {
+              "number": "680272",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:21:18",
+              "type": "trader"
+           },
+           "230266": {
+              "number": "230266",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:21:30",
+              "type": "trader"
+           },
+           "609637": {
+              "number": "609637",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:21:31",
+              "type": "trader"
+           },
+           "187470": {
+              "number": "187470",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:21:38",
+              "type": "trader"
+           },
+           "262398": {
+              "number": "262398",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:21:39",
+              "type": "trader"
+           },
+           "631940": {
+              "number": "631940",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:21:41",
+              "type": "trader"
+           },
+           "488510": {
+              "number": "488510",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:21:58",
+              "type": "trader"
+           },
+           "053939": {
+              "number": "053939",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:22:02",
+              "type": "trader"
+           },
+           "715587": {
+              "number": "715587",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:22:49",
+              "type": "trader"
+           },
+           "902306": {
+              "number": "902306",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:23:28",
+              "type": "trader"
+           },
+           "578331": {
+              "number": "578331",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:24:13",
+              "type": "trader"
+           },
+           "622798": {
+              "number": "622798",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:24:22",
+              "type": "trader"
+           },
+           "125359": {
+              "number": "125359",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:24:25",
+              "type": "trader"
+           },
+           "576063": {
+              "number": "576063",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:25:26",
+              "type": "trader"
+           },
+           "476268": {
+              "number": "476268",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:25:27",
+              "type": "trader"
+           },
+           "733796": {
+              "number": "733796",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:25:34",
+              "type": "trader"
+           },
+           "378094": {
+              "number": "378094",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:25:35",
+              "type": "trader"
+           },
+           "579740": {
+              "number": "579740",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:25:44",
+              "type": "trader"
+           },
+           "960402": {
+              "number": "960402",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:25:44",
+              "type": "trader"
+           },
+           "973719": {
+              "number": "973719",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:25:52",
+              "type": "trader"
+           },
+           "507716": {
+              "number": "507716",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:25:55",
+              "type": "trader"
+           },
+           "527109": {
+              "number": "527109",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:26:12",
+              "type": "trader"
+           },
+           "888804": {
+              "number": "888804",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:26:12",
+              "type": "trader"
+           },
+           "117106": {
+              "number": "117106",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:26:48",
+              "type": "trader"
+           },
+           "465703": {
+              "number": "465703",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:27:06",
+              "type": "trader"
+           },
+           "556665": {
+              "number": "556665",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:27:07",
+              "type": "trader"
+           },
+           "454360": {
+              "number": "454360",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:27:14",
+              "type": "trader"
+           },
+           "892161": {
+              "number": "892161",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 00:27:33",
+              "type": "trader"
+           },
+           "410835": {
+              "number": "410835",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 08:58:58",
+              "type": "partner"
+           },
+           "158367": {
+              "number": "158367",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 08:59:37",
+              "type": "partner"
+           },
+           "157370": {
+              "number": "157370",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:01:14",
+              "type": "partner"
+           },
+           "279038": {
+              "number": "279038",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:02:28",
+              "type": "partner"
+           },
+           "393605": {
+              "number": "393605",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:02:57",
+              "type": "partner"
+           },
+           "725735": {
+              "number": "725735",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:05:46",
+              "type": "partner"
+           },
+           "609341": {
+              "number": "609341",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:06:18",
+              "type": "partner"
+           },
+           "209083": {
+              "number": "209083",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:06:23",
+              "type": "partner"
+           },
+           "015832": {
+              "number": "015832",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:06:48",
+              "type": "partner"
+           },
+           "865260": {
+              "number": "865260",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:07:58",
+              "type": "partner"
+           },
+           "375564": {
+              "number": "375564",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:08:38",
+              "type": "partner"
+           },
+           "358414": {
+              "number": "358414",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:08:48",
+              "type": "partner"
+           },
+           "867260": {
+              "number": "867260",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:10:23",
+              "type": "partner"
+           },
+           "338821": {
+              "number": "338821",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:11:49",
+              "type": "partner"
+           },
+           "074421": {
+              "number": "074421",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:12:27",
+              "type": "partner"
+           },
+           "189543": {
+              "number": "189543",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:12:29",
+              "type": "partner"
+           },
+           "531289": {
+              "number": "531289",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:12:35",
+              "type": "partner"
+           },
+           "041467": {
+              "number": "041467",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:12:58",
+              "type": "partner"
+           },
+           "076474": {
+              "number": "076474",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:13:17",
+              "type": "partner"
+           },
+           "861201": {
+              "number": "861201",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:13:34",
+              "type": "partner"
+           },
+           "284824": {
+              "number": "284824",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:18:34",
+              "type": "partner"
+           },
+           "455716": {
+              "number": "455716",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:19:53",
+              "type": "partner"
+           },
+           "991793": {
+              "number": "991793",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:19:57",
+              "type": "partner"
+           },
+           "975115": {
+              "number": "975115",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:20:46",
+              "type": "partner"
+           },
+           "212111": {
+              "number": "212111",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:21:08",
+              "type": "partner"
+           },
+           "083938": {
+              "number": "083938",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:22:27",
+              "type": "partner"
+           },
+           "771018": {
+              "number": "771018",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:23:23",
+              "type": "partner"
+           },
+           "255965": {
+              "number": "255965",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:25:42",
+              "type": "partner"
+           },
+           "002507": {
+              "number": "002507",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:25:53",
+              "type": "partner"
+           },
+           "265396": {
+              "number": "265396",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:26:13",
+              "type": "partner"
+           },
+           "563501": {
+              "number": "563501",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:27:49",
+              "type": "partner"
+           },
+           "674315": {
+              "number": "674315",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-06 09:29:06",
+              "type": "partner"
+           },
+           "028808": {
+              "number": "028808",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:16:19",
+              "type": "trader"
+           },
+           "438353": {
+              "number": "438353",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:16:20",
+              "type": "trader"
+           },
+           "599147": {
+              "number": "599147",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:16:30",
+              "type": "trader"
+           },
+           "580898": {
+              "number": "580898",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:17:03",
+              "type": "trader"
+           },
+           "545162": {
+              "number": "545162",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:17:19",
+              "type": "trader"
+           },
+           "929588": {
+              "number": "929588",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:17:22",
+              "type": "trader"
+           },
+           "256846": {
+              "number": "256846",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:17:39",
+              "type": "trader"
+           },
+           "539417": {
+              "number": "539417",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:18:10",
+              "type": "trader"
+           },
+           "737384": {
+              "number": "737384",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:18:41",
+              "type": "trader"
+           },
+           "745148": {
+              "number": "745148",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:18:51",
+              "type": "trader"
+           },
+           "556723": {
+              "number": "556723",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:19:13",
+              "type": "trader"
+           },
+           "597007": {
+              "number": "597007",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:19:48",
+              "type": "trader"
+           },
+           "153344": {
+              "number": "153344",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:19:50",
+              "type": "trader"
+           },
+           "469897": {
+              "number": "469897",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:19:59",
+              "type": "trader"
+           },
+           "270584": {
+              "number": "270584",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:20:16",
+              "type": "trader"
+           },
+           "396149": {
+              "number": "396149",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:20:46",
+              "type": "trader"
+           },
+           "118841": {
+              "number": "118841",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:20:58",
+              "type": "trader"
+           },
+           "680632": {
+              "number": "680632",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:21:35",
+              "type": "trader"
+           },
+           "756487": {
+              "number": "756487",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:21:49",
+              "type": "trader"
+           },
+           "659048": {
+              "number": "659048",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:22:45",
+              "type": "trader"
+           },
+           "368754": {
+              "number": "368754",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:22:56",
+              "type": "trader"
+           },
+           "663811": {
+              "number": "663811",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:22:58",
+              "type": "trader"
+           },
+           "500770": {
+              "number": "500770",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:23:15",
+              "type": "trader"
+           },
+           "995426": {
+              "number": "995426",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:23:17",
+              "type": "trader"
+           },
+           "678517": {
+              "number": "678517",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:23:18",
+              "type": "trader"
+           },
+           "803444": {
+              "number": "803444",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:23:24",
+              "type": "trader"
+           },
+           "362279": {
+              "number": "362279",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:23:35",
+              "type": "trader"
+           },
+           "198631": {
+              "number": "198631",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:23:47",
+              "type": "trader"
+           },
+           "681045": {
+              "number": "681045",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:23:48",
+              "type": "trader"
+           },
+           "003212": {
+              "number": "003212",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:23:52",
+              "type": "trader"
+           },
+           "516832": {
+              "number": "516832",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:24:24",
+              "type": "trader"
+           },
+           "580916": {
+              "number": "580916",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:24:43",
+              "type": "trader"
+           },
+           "392208": {
+              "number": "392208",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:25:49",
+              "type": "trader"
+           },
+           "617551": {
+              "number": "617551",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:26:31",
+              "type": "trader"
+           },
+           "081751": {
+              "number": "081751",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:27:00",
+              "type": "trader"
+           },
+           "081151": {
+              "number": "081151",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:28:01",
+              "type": "trader"
+           },
+           "418954": {
+              "number": "418954",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:28:31",
+              "type": "trader"
+           },
+           "247584": {
+              "number": "247584",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:28:32",
+              "type": "trader"
+           },
+           "257194": {
+              "number": "257194",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 00:28:53",
+              "type": "trader"
+           },
+           "765684": {
+              "number": "765684",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 10:57:34",
+              "type": "partner"
+           },
+           "100527": {
+              "number": "100527",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 10:57:37",
+              "type": "partner"
+           },
+           "751324": {
+              "number": "751324",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 10:57:50",
+              "type": "partner"
+           },
+           "384856": {
+              "number": "384856",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 10:58:10",
+              "type": "partner"
+           },
+           "233055": {
+              "number": "233055",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 10:59:14",
+              "type": "partner"
+           },
+           "627124": {
+              "number": "627124",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 10:59:46",
+              "type": "partner"
+           },
+           "444190": {
+              "number": "444190",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:02:50",
+              "type": "partner"
+           },
+           "586936": {
+              "number": "586936",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:04:10",
+              "type": "partner"
+           },
+           "967055": {
+              "number": "967055",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:11:11",
+              "type": "partner"
+           },
+           "267213": {
+              "number": "267213",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:11:18",
+              "type": "partner"
+           },
+           "048220": {
+              "number": "048220",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:13:18",
+              "type": "partner"
+           },
+           "366719": {
+              "number": "366719",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:13:33",
+              "type": "partner"
+           },
+           "032253": {
+              "number": "032253",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:13:36",
+              "type": "partner"
+           },
+           "047751": {
+              "number": "047751",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:14:35",
+              "type": "partner"
+           },
+           "806785": {
+              "number": "806785",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:15:52",
+              "type": "partner"
+           },
+           "914071": {
+              "number": "914071",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:17:53",
+              "type": "partner"
+           },
+           "059692": {
+              "number": "059692",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:21:06",
+              "type": "partner"
+           },
+           "682804": {
+              "number": "682804",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:22:43",
+              "type": "partner"
+           },
+           "965534": {
+              "number": "965534",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:24:25",
+              "type": "partner"
+           },
+           "650847": {
+              "number": "650847",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:25:08",
+              "type": "partner"
+           },
+           "215990": {
+              "number": "215990",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:27:28",
+              "type": "partner"
+           },
+           "843374": {
+              "number": "843374",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:27:59",
+              "type": "partner"
+           },
+           "876674": {
+              "number": "876674",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:28:01",
+              "type": "partner"
+           },
+           "640290": {
+              "number": "640290",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:28:09",
+              "type": "partner"
+           },
+           "081591": {
+              "number": "081591",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:28:21",
+              "type": "partner"
+           },
+           "560866": {
+              "number": "560866",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:29:52",
+              "type": "partner"
+           },
+           "037705": {
+              "number": "037705",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:30:38",
+              "type": "partner"
+           },
+           "126853": {
+              "number": "126853",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:30:46",
+              "type": "partner"
+           },
+           "278270": {
+              "number": "278270",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:30:56",
+              "type": "partner"
+           },
+           "396097": {
+              "number": "396097",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:32:51",
+              "type": "partner"
+           },
+           "828399": {
+              "number": "828399",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:33:14",
+              "type": "partner"
+           },
+           "202270": {
+              "number": "202270",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:35:33",
+              "type": "partner"
+           },
+           "117856": {
+              "number": "117856",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:35:45",
+              "type": "partner"
+           },
+           "190590": {
+              "number": "190590",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:37:35",
+              "type": "partner"
+           },
+           "038054": {
+              "number": "038054",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:37:46",
+              "type": "partner"
+           },
+           "036421": {
+              "number": "036421",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:38:41",
+              "type": "partner"
+           },
+           "431943": {
+              "number": "431943",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:40:33",
+              "type": "partner"
+           },
+           "796862": {
+              "number": "796862",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:40:43",
+              "type": "partner"
+           },
+           "244934": {
+              "number": "244934",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:42:04",
+              "type": "partner"
+           },
+           "506905": {
+              "number": "506905",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:44:56",
+              "type": "partner"
+           },
+           "926459": {
+              "number": "926459",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:45:35",
+              "type": "partner"
+           },
+           "072002": {
+              "number": "072002",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:45:45",
+              "type": "partner"
+           },
+           "523058": {
+              "number": "523058",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:46:09",
+              "type": "partner"
+           },
+           "287051": {
+              "number": "287051",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:47:19",
+              "type": "partner"
+           },
+           "502697": {
+              "number": "502697",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-07 11:47:44",
+              "type": "partner"
+           },
+           "592839": {
+              "number": "592839",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:16:13",
+              "type": "trader"
+           },
+           "251038": {
+              "number": "251038",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:16:27",
+              "type": "trader"
+           },
+           "263089": {
+              "number": "263089",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:16:57",
+              "type": "trader"
+           },
+           "429127": {
+              "number": "429127",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:16:59",
+              "type": "trader"
+           },
+           "902362": {
+              "number": "902362",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:17:13",
+              "type": "trader"
+           },
+           "610755": {
+              "number": "610755",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:17:32",
+              "type": "trader"
+           },
+           "075361": {
+              "number": "075361",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:17:32",
+              "type": "trader"
+           },
+           "652037": {
+              "number": "652037",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:17:42",
+              "type": "trader"
+           },
+           "312030": {
+              "number": "312030",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:18:30",
+              "type": "trader"
+           },
+           "676868": {
+              "number": "676868",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:18:30",
+              "type": "trader"
+           },
+           "706010": {
+              "number": "706010",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:18:59",
+              "type": "trader"
+           },
+           "564215": {
+              "number": "564215",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:19:26",
+              "type": "trader"
+           },
+           "352666": {
+              "number": "352666",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:20:28",
+              "type": "trader"
+           },
+           "779084": {
+              "number": "779084",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:20:30",
+              "type": "trader"
+           },
+           "564723": {
+              "number": "564723",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:21:58",
+              "type": "trader"
+           },
+           "871933": {
+              "number": "871933",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:23:17",
+              "type": "trader"
+           },
+           "179868": {
+              "number": "179868",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:24:37",
+              "type": "trader"
+           },
+           "125061": {
+              "number": "125061",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:24:37",
+              "type": "trader"
+           },
+           "666623": {
+              "number": "666623",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:27:57",
+              "type": "trader"
+           },
+           "587446": {
+              "number": "587446",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:28:10",
+              "type": "trader"
+           },
+           "715389": {
+              "number": "715389",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:28:10",
+              "type": "trader"
+           },
+           "280028": {
+              "number": "280028",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:28:54",
+              "type": "trader"
+           },
+           "691241": {
+              "number": "691241",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:29:22",
+              "type": "trader"
+           },
+           "933926": {
+              "number": "933926",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:29:37",
+              "type": "trader"
+           },
+           "435436": {
+              "number": "435436",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:29:39",
+              "type": "trader"
+           },
+           "296125": {
+              "number": "296125",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:30:41",
+              "type": "trader"
+           },
+           "799348": {
+              "number": "799348",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:31:49",
+              "type": "trader"
+           },
+           "926476": {
+              "number": "926476",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 00:32:00",
+              "type": "trader"
+           },
+           "722334": {
+              "number": "722334",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:32:10",
+              "type": "partner"
+           },
+           "248099": {
+              "number": "248099",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:34:04",
+              "type": "partner"
+           },
+           "794231": {
+              "number": "794231",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:36:40",
+              "type": "partner"
+           },
+           "871173": {
+              "number": "871173",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:37:56",
+              "type": "partner"
+           },
+           "841308": {
+              "number": "841308",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:38:12",
+              "type": "partner"
+           },
+           "966167": {
+              "number": "966167",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:38:40",
+              "type": "partner"
+           },
+           "504689": {
+              "number": "504689",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:39:01",
+              "type": "partner"
+           },
+           "363716": {
+              "number": "363716",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:39:37",
+              "type": "partner"
+           },
+           "946909": {
+              "number": "946909",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:39:55",
+              "type": "partner"
+           },
+           "001873": {
+              "number": "001873",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:41:14",
+              "type": "partner"
+           },
+           "168182": {
+              "number": "168182",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:43:31",
+              "type": "partner"
+           },
+           "279207": {
+              "number": "279207",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:43:45",
+              "type": "partner"
+           },
+           "008921": {
+              "number": "008921",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:43:56",
+              "type": "partner"
+           },
+           "632020": {
+              "number": "632020",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:45:19",
+              "type": "partner"
+           },
+           "688718": {
+              "number": "688718",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:45:27",
+              "type": "partner"
+           },
+           "394159": {
+              "number": "394159",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:45:49",
+              "type": "partner"
+           },
+           "617660": {
+              "number": "617660",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:46:21",
+              "type": "partner"
+           },
+           "546589": {
+              "number": "546589",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:46:29",
+              "type": "partner"
+           },
+           "233578": {
+              "number": "233578",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:47:28",
+              "type": "partner"
+           },
+           "563676": {
+              "number": "563676",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:48:40",
+              "type": "partner"
+           },
+           "057599": {
+              "number": "057599",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:48:46",
+              "type": "partner"
+           },
+           "013546": {
+              "number": "013546",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:49:55",
+              "type": "partner"
+           },
+           "287803": {
+              "number": "287803",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:50:24",
+              "type": "partner"
+           },
+           "249607": {
+              "number": "249607",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:50:24",
+              "type": "partner"
+           },
+           "378749": {
+              "number": "378749",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:50:48",
+              "type": "partner"
+           },
+           "691382": {
+              "number": "691382",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:51:31",
+              "type": "partner"
+           },
+           "342249": {
+              "number": "342249",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:53:42",
+              "type": "partner"
+           },
+           "800099": {
+              "number": "800099",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:54:17",
+              "type": "partner"
+           },
+           "900595": {
+              "number": "900595",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:54:53",
+              "type": "partner"
+           },
+           "332100": {
+              "number": "332100",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:54:57",
+              "type": "partner"
+           },
+           "805445": {
+              "number": "805445",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:55:59",
+              "type": "partner"
+           },
+           "381553": {
+              "number": "381553",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:56:25",
+              "type": "partner"
+           },
+           "617419": {
+              "number": "617419",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:56:32",
+              "type": "partner"
+           },
+           "601442": {
+              "number": "601442",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:56:40",
+              "type": "partner"
+           },
+           "212664": {
+              "number": "212664",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:57:54",
+              "type": "partner"
+           },
+           "269686": {
+              "number": "269686",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:57:55",
+              "type": "partner"
+           },
+           "634990": {
+              "number": "634990",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-08 10:59:50",
+              "type": "partner"
+           },
+           "762587": {
+              "number": "762587",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 00:16:55",
+              "type": "trader"
+           },
+           "269018": {
+              "number": "269018",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 00:16:57",
+              "type": "trader"
+           },
+           "246874": {
+              "number": "246874",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 00:16:59",
+              "type": "trader"
+           },
+           "749347": {
+              "number": "749347",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 00:18:12",
+              "type": "trader"
+           },
+           "867082": {
+              "number": "867082",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 00:19:11",
+              "type": "trader"
+           },
+           "823578": {
+              "number": "823578",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 00:19:13",
+              "type": "trader"
+           },
+           "714238": {
+              "number": "714238",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 00:20:55",
+              "type": "trader"
+           },
+           "128624": {
+              "number": "128624",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 00:20:59",
+              "type": "trader"
+           },
+           "223099": {
+              "number": "223099",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 00:21:12",
+              "type": "trader"
+           },
+           "631804": {
+              "number": "631804",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 00:22:44",
+              "type": "trader"
+           },
+           "144354": {
+              "number": "144354",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 00:24:49",
+              "type": "trader"
+           },
+           "033716": {
+              "number": "033716",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 00:25:13",
+              "type": "trader"
+           },
+           "889815": {
+              "number": "889815",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 00:25:52",
+              "type": "trader"
+           },
+           "827265": {
+              "number": "827265",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 00:26:07",
+              "type": "trader"
+           },
+           "341625": {
+              "number": "341625",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 00:26:08",
+              "type": "trader"
+           },
+           "169672": {
+              "number": "169672",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 00:26:34",
+              "type": "trader"
+           },
+           "374250": {
+              "number": "374250",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 00:26:38",
+              "type": "trader"
+           },
+           "477709": {
+              "number": "477709",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 00:27:05",
+              "type": "trader"
+           },
+           "880041": {
+              "number": "880041",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 00:27:39",
+              "type": "trader"
+           },
+           "419419": {
+              "number": "419419",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 00:27:40",
+              "type": "trader"
+           },
+           "917540": {
+              "number": "917540",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 00:27:49",
+              "type": "trader"
+           },
+           "343254": {
+              "number": "343254",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 00:30:16",
+              "type": "trader"
+           },
+           "254018": {
+              "number": "254018",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 00:30:47",
+              "type": "trader"
+           },
+           "173928": {
+              "number": "173928",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 00:31:22",
+              "type": "trader"
+           },
+           "426627": {
+              "number": "426627",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 00:32:40",
+              "type": "trader"
+           },
+           "386609": {
+              "number": "386609",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:11:20",
+              "type": "partner"
+           },
+           "340006": {
+              "number": "340006",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:11:25",
+              "type": "partner"
+           },
+           "006751": {
+              "number": "006751",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:12:33",
+              "type": "partner"
+           },
+           "599978": {
+              "number": "599978",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:20:47",
+              "type": "partner"
+           },
+           "403709": {
+              "number": "403709",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:21:06",
+              "type": "partner"
+           },
+           "781799": {
+              "number": "781799",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:22:39",
+              "type": "partner"
+           },
+           "653164": {
+              "number": "653164",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:23:21",
+              "type": "partner"
+           },
+           "477997": {
+              "number": "477997",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:23:28",
+              "type": "partner"
+           },
+           "573391": {
+              "number": "573391",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:23:50",
+              "type": "partner"
+           },
+           "604479": {
+              "number": "604479",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:26:28",
+              "type": "partner"
+           },
+           "475627": {
+              "number": "475627",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:28:03",
+              "type": "partner"
+           },
+           "339192": {
+              "number": "339192",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:28:59",
+              "type": "partner"
+           },
+           "063202": {
+              "number": "063202",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:29:23",
+              "type": "partner"
+           },
+           "636507": {
+              "number": "636507",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:29:36",
+              "type": "partner"
+           },
+           "299895": {
+              "number": "299895",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:29:39",
+              "type": "partner"
+           },
+           "478695": {
+              "number": "478695",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:29:52",
+              "type": "partner"
+           },
+           "674883": {
+              "number": "674883",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:30:16",
+              "type": "partner"
+           },
+           "024769": {
+              "number": "024769",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:30:59",
+              "type": "partner"
+           },
+           "499219": {
+              "number": "499219",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:35:17",
+              "type": "partner"
+           },
+           "248098": {
+              "number": "248098",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:36:57",
+              "type": "partner"
+           },
+           "787424": {
+              "number": "787424",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:37:50",
+              "type": "partner"
+           },
+           "826174": {
+              "number": "826174",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:38:38",
+              "type": "partner"
+           },
+           "576076": {
+              "number": "576076",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:39:33",
+              "type": "partner"
+           },
+           "581604": {
+              "number": "581604",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:41:00",
+              "type": "partner"
+           },
+           "277750": {
+              "number": "277750",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:41:00",
+              "type": "partner"
+           },
+           "949087": {
+              "number": "949087",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:41:08",
+              "type": "partner"
+           },
+           "186292": {
+              "number": "186292",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:41:13",
+              "type": "partner"
+           },
+           "889196": {
+              "number": "889196",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:41:13",
+              "type": "partner"
+           },
+           "611286": {
+              "number": "611286",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:41:20",
+              "type": "partner"
+           },
+           "668798": {
+              "number": "668798",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:41:40",
+              "type": "partner"
+           },
+           "445080": {
+              "number": "445080",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:42:08",
+              "type": "partner"
+           },
+           "448435": {
+              "number": "448435",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:42:14",
+              "type": "partner"
+           },
+           "499374": {
+              "number": "499374",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:42:22",
+              "type": "partner"
+           },
+           "857406": {
+              "number": "857406",
+              "raffle_alias": "oct",
+              "cdate": "2020-10-09 09:42:22",
+              "type": "partner"
+           }
+        },
+        "coupon_count": 446
+     },
+     {
+        "alias": "nov",
+        "date_from": "2020-11-01 00:00:00",
+        "date_from_timestamp": "1604181600",
+        "date_to": "2020-11-30 23:59:59",
+        "date_to_timestamp": "1606773599",
+        "draw_date": "2020-12-04 00:00:00",
+        "draw_date_timestamp": "1607032800",
+        "status": null,
+        "is_visible": false,
+        "winning_combination_list": [],
+        "coupon_list": [],
+        "coupon_count": 0
+     },
+     {
+        "alias": "dec",
+        "date_from": "2020-12-01 00:00:00",
+        "date_from_timestamp": "1606773600",
+        "date_to": "2020-12-31 23:59:59",
+        "date_to_timestamp": "1609451999",
+        "draw_date": "2021-01-08 00:00:00",
+        "draw_date_timestamp": "1610056800",
+        "status": null,
+        "is_visible": false,
+        "winning_combination_list": [],
+        "coupon_list": [],
+        "coupon_count": 0
+     },
+     {
+        "alias": "jan",
+        "date_from": "2021-01-01 00:00:00",
+        "date_from_timestamp": "1609452000",
+        "date_to": "2021-01-31 23:59:59",
+        "date_to_timestamp": "1612130399",
+        "draw_date": "2021-02-05 00:00:00",
+        "draw_date_timestamp": "1612476000",
+        "status": null,
+        "is_visible": false,
+        "winning_combination_list": [],
+        "coupon_list": [],
+        "coupon_count": 0
+     },
+     {
+        "alias": "feb",
+        "date_from": "2021-02-01 00:00:00",
+        "date_from_timestamp": "1612130400",
+        "date_to": "2021-02-28 23:59:59",
+        "date_to_timestamp": "1614549599",
+        "draw_date": "2021-03-05 00:00:00",
+        "draw_date_timestamp": "1614895200",
+        "status": null,
+        "is_visible": false,
+        "winning_combination_list": [],
+        "coupon_list": [],
+        "coupon_count": 0
+     },
+     {
+        "alias": "mar",
+        "date_from": "2021-03-01 00:00:00",
+        "date_from_timestamp": "1614549600",
+        "date_to": "2021-03-31 23:59:59",
+        "date_to_timestamp": "1617224399",
+        "draw_date": "2021-04-02 00:00:00",
+        "draw_date_timestamp": "1617310800",
+        "status": null,
+        "is_visible": false,
+        "winning_combination_list": [],
+        "coupon_list": [],
+        "coupon_count": 0
+     },
+     {
+        "alias": "apr",
+        "date_from": "2021-04-01 00:00:00",
+        "date_from_timestamp": "1617224400",
+        "date_to": "2021-04-30 23:59:59",
+        "date_to_timestamp": "1619816399",
+        "draw_date": "2021-05-07 00:00:00",
+        "draw_date_timestamp": "1620334800",
+        "status": null,
+        "is_visible": false,
+        "winning_combination_list": [],
+        "coupon_list": [],
+        "coupon_count": 0
+     },
+     {
+        "alias": "grand_prix",
+        "date_from": "2020-10-01 00:00:00",
+        "date_from_timestamp": "1601499600",
+        "date_to": "2021-04-30 23:59:59",
+        "date_to_timestamp": "1619816399",
+        "draw_date": "2021-05-14 00:00:00",
+        "draw_date_timestamp": "1620939600",
+        "status": null,
+        "is_visible": false,
+        "winning_combination_list": [],
+        "coupon_list": [],
+        "coupon_count": 0
+     }
+  ]
+}
