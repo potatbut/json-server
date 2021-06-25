@@ -1,0 +1,1445 @@
+{
+  "raffle_list": [{
+    "alias": "jul",
+    "date_from": "2021-06-25 00:00:00",
+    "date_from_timestamp": "1624568400",
+    "date_to": "2021-06-25 11:49:59",
+    "date_to_timestamp": "1624610999",
+    "draw_date": "2021-06-25 11:50:59",
+    "draw_date_timestamp": "1624611059",
+    "status": "final",
+    "is_visible": true,
+    "winning_combination_list": {
+      "1": {
+        "prize": 20000,
+        "symbol1": "AAPL",
+        "price1": "133.41",
+        "symbol2": "MSFT",
+        "price2": "266.69",
+        "combination": "341669",
+        "coupon_number": "344456"
+      },
+      "2": {
+        "prize": 15000,
+        "symbol1": "MSFT",
+        "price1": "266.69",
+        "symbol2": "AAPL",
+        "price2": "133.41",
+        "combination": "669341",
+        "coupon_number": "663747"
+      },
+      "3": {
+        "prize": 10000,
+        "symbol1": "AMZN",
+        "price1": "3,449.08",
+        "symbol2": "GOOGL",
+        "price2": "2,450.00",
+        "combination": "908000",
+        "coupon_number": "905198"
+      },
+      "4": {
+        "prize": 7500,
+        "symbol1": "GOOGL",
+        "price1": "2,450.00",
+        "symbol2": "AMZN",
+        "price2": "3,449.08",
+        "combination": "000908",
+        "coupon_number": "017830"
+      },
+      "5": {
+        "prize": 5000,
+        "symbol1": "FB",
+        "price1": "343.18",
+        "symbol2": "BRK-B",
+        "price2": "275.49",
+        "combination": "318549",
+        "coupon_number": "317456"
+      },
+      "6": {
+        "prize": 3000,
+        "symbol1": "BRK-B",
+        "price1": "275.49",
+        "symbol2": "FB",
+        "price2": "343.18",
+        "combination": "549318",
+        "coupon_number": "551000"
+      },
+      "7": {
+        "prize": 2500,
+        "symbol1": "TSLA",
+        "price1": "679.82",
+        "symbol2": "V",
+        "price2": "236.24",
+        "combination": "982624",
+        "coupon_number": "987018"
+      },
+      "8": {
+        "prize": 1000,
+        "symbol1": "V",
+        "price1": "236.24",
+        "symbol2": "TSLA",
+        "price2": "679.82",
+        "combination": "624982",
+        "coupon_number": "620064"
+      },
+      "9": {
+        "prize": 1000,
+        "symbol1": "NVDA",
+        "price1": "768.22",
+        "symbol2": "JPM",
+        "price2": "152.51",
+        "combination": "822251",
+        "coupon_number": "838136"
+      },
+      "10": {
+        "prize": 1000,
+        "symbol1": "JPM",
+        "price1": "152.51",
+        "symbol2": "NVDA",
+        "price2": "768.22",
+        "combination": "251822",
+        "coupon_number": "252013"
+      },
+      "11": {
+        "prize": 1000,
+        "symbol1": "JNJ",
+        "price1": "163.37",
+        "symbol2": "WMT",
+        "price2": "136.91",
+        "combination": "337691",
+        "coupon_number": "348588"
+      },
+      "12": {
+        "prize": 1000,
+        "symbol1": "WMT",
+        "price1": "136.91",
+        "symbol2": "JNJ",
+        "price2": "163.37",
+        "combination": "691337",
+        "coupon_number": "685555"
+      },
+      "13": {
+        "prize": 1000,
+        "symbol1": "UNH",
+        "price1": "398.87",
+        "symbol2": "MA",
+        "price2": "374.75",
+        "combination": "887475",
+        "coupon_number": "897001"
+      },
+      "14": {
+        "prize": 1000,
+        "symbol1": "MA",
+        "price1": "374.75",
+        "symbol2": "UNH",
+        "price2": "398.87",
+        "combination": "475887",
+        "coupon_number": "475441"
+      },
+      "15": {
+        "prize": 1000,
+        "symbol1": "PYPL",
+        "price1": "293.21",
+        "symbol2": "BAC",
+        "price2": "40.83",
+        "combination": "321083",
+        "coupon_number": "353003"
+      },
+      "16": {
+        "prize": 1000,
+        "symbol1": "BAC",
+        "price1": "40.83",
+        "symbol2": "PYPL",
+        "price2": "293.21",
+        "combination": "083321",
+        "coupon_number": "093586"
+      },
+      "17": {
+        "prize": 1000,
+        "symbol1": "PG",
+        "price1": "133.02",
+        "symbol2": "HD",
+        "price2": "311.84",
+        "combination": "302184",
+        "coupon_number": "279602"
+      },
+      "18": {
+        "prize": 1000,
+        "symbol1": "HD",
+        "price1": "311.84",
+        "symbol2": "PG",
+        "price2": "133.02",
+        "combination": "184302",
+        "coupon_number": "176164"
+      },
+      "19": {
+        "prize": 1000,
+        "symbol1": "DIS",
+        "price1": "177.93",
+        "symbol2": "ADBE",
+        "price2": "578.26",
+        "combination": "793826",
+        "coupon_number": "797964"
+      },
+      "20": {
+        "prize": 1000,
+        "symbol1": "ADBE",
+        "price1": "578.26",
+        "symbol2": "DIS",
+        "price2": "177.93",
+        "combination": "826793",
+        "coupon_number": "859673"
+      },
+      "21": {
+        "prize": 1000,
+        "symbol1": "CMCSA",
+        "price1": "56.06",
+        "symbol2": "XOM",
+        "price2": "64.52",
+        "combination": "606452",
+        "coupon_number": "642790"
+      },
+      "22": {
+        "prize": 1000,
+        "symbol1": "XOM",
+        "price1": "64.52",
+        "symbol2": "CMCSA",
+        "price2": "56.06",
+        "combination": "452606",
+        "coupon_number": "443594"
+      },
+      "23": {
+        "prize": 1000,
+        "symbol1": "KO",
+        "price1": "54.39",
+        "symbol2": "VZ",
+        "price2": "56.37",
+        "combination": "439637",
+        "coupon_number": "415486"
+      },
+      "24": {
+        "prize": 1000,
+        "symbol1": "VZ",
+        "price1": "56.37",
+        "symbol2": "KO",
+        "price2": "54.39",
+        "combination": "637439",
+        "coupon_number": "552000"
+      },
+      "25": {
+        "prize": 1000,
+        "symbol1": "CRM",
+        "price1": "243.77",
+        "symbol2": "INTC",
+        "price2": "56.07",
+        "combination": "377607",
+        "coupon_number": "368412"
+      },
+      "26": {
+        "prize": 1000,
+        "symbol1": "INTC",
+        "price1": "56.07",
+        "symbol2": "CRM",
+        "price2": "243.77",
+        "combination": "607377",
+        "coupon_number": "542040"
+      },
+      "27": {
+        "prize": 1000,
+        "symbol1": "NFLX",
+        "price1": "518.06",
+        "symbol2": "ORCL",
+        "price2": "77.74",
+        "combination": "806774",
+        "coupon_number": "780828"
+      },
+      "28": {
+        "prize": 1000,
+        "symbol1": "ORCL",
+        "price1": "77.74",
+        "symbol2": "NFLX",
+        "price2": "518.06",
+        "combination": "774806",
+        "coupon_number": "771752"
+      },
+      "29": {
+        "prize": 1000,
+        "symbol1": "CSCO",
+        "price1": "52.78",
+        "symbol2": "PFE",
+        "price2": "39.19",
+        "combination": "278919",
+        "coupon_number": "269725"
+      },
+      "30": {
+        "prize": 1000,
+        "symbol1": "PFE",
+        "price1": "39.19",
+        "symbol2": "CSCO",
+        "price2": "52.78",
+        "combination": "919278",
+        "coupon_number": "925214"
+      },
+      "31": {
+        "prize": 1000,
+        "symbol1": "LLY",
+        "price1": "232.97",
+        "symbol2": "T",
+        "price2": "28.79",
+        "combination": "297879",
+        "coupon_number": "254376"
+      },
+      "32": {
+        "prize": 1000,
+        "symbol1": "T",
+        "price1": "28.79",
+        "symbol2": "LLY",
+        "price2": "232.97",
+        "combination": "879297",
+        "coupon_number": "861656"
+      },
+      "33": {
+        "prize": 1000,
+        "symbol1": "NKE",
+        "price1": "133.60",
+        "symbol2": "PEP",
+        "price2": "145.67",
+        "combination": "360567",
+        "coupon_number": "391263"
+      },
+      "34": {
+        "prize": 1000,
+        "symbol1": "PEP",
+        "price1": "145.67",
+        "symbol2": "NKE",
+        "price2": "133.60",
+        "combination": "567360",
+        "coupon_number": "497074"
+      },
+      "35": {
+        "prize": 1000,
+        "symbol1": "ABBV",
+        "price1": "114.74",
+        "symbol2": "CVX",
+        "price2": "107.14",
+        "combination": "474714",
+        "coupon_number": "490985"
+      },
+      "36": {
+        "prize": 1000,
+        "symbol1": "CVX",
+        "price1": "107.14",
+        "symbol2": "ABBV",
+        "price2": "114.74",
+        "combination": "714474",
+        "coupon_number": "749180"
+      },
+      "37": {
+        "prize": 1000,
+        "symbol1": "ABT",
+        "price1": "111.70",
+        "symbol2": "MRK",
+        "price2": "76.36",
+        "combination": "170636",
+        "coupon_number": "166401"
+      },
+      "38": {
+        "prize": 1000,
+        "symbol1": "MRK",
+        "price1": "76.36",
+        "symbol2": "ABT",
+        "price2": "111.70",
+        "combination": "636170",
+        "coupon_number": "766816"
+      },
+      "39": {
+        "prize": 1000,
+        "symbol1": "AVGO",
+        "price1": "470.06",
+        "symbol2": "TMO",
+        "price2": "495.36",
+        "combination": "006536",
+        "coupon_number": "045449"
+      },
+      "40": {
+        "prize": 1000,
+        "symbol1": "TMO",
+        "price1": "495.36",
+        "symbol2": "AVGO",
+        "price2": "470.06",
+        "combination": "536006",
+        "coupon_number": "494348"
+      },
+      "41": {
+        "prize": 1000,
+        "symbol1": "DHR",
+        "price1": "267.35",
+        "symbol2": "TMUS",
+        "price2": "145.60",
+        "combination": "735560",
+        "coupon_number": "943613"
+      },
+      "42": {
+        "prize": 1000,
+        "symbol1": "TMUS",
+        "price1": "145.60",
+        "symbol2": "DHR",
+        "price2": "267.35",
+        "combination": "560735",
+        "coupon_number": "493131"
+      },
+      "43": {
+        "prize": 1000,
+        "symbol1": "ACN",
+        "price1": "291.56",
+        "symbol2": "WFC",
+        "price2": "45.18",
+        "combination": "156518",
+        "coupon_number": "148907"
+      },
+      "44": {
+        "prize": 1000,
+        "symbol1": "WFC",
+        "price1": "45.18",
+        "symbol2": "ACN",
+        "price2": "291.56",
+        "combination": "518156",
+        "coupon_number": "414476"
+      },
+      "45": {
+        "prize": 1000,
+        "symbol1": "UPS",
+        "price1": "206.10",
+        "symbol2": "MCD",
+        "price2": "233.33",
+        "combination": "610333",
+        "coupon_number": "398795"
+      },
+      "46": {
+        "prize": 1000,
+        "symbol1": "MCD",
+        "price1": "233.33",
+        "symbol2": "UPS",
+        "price2": "206.10",
+        "combination": "333610",
+        "coupon_number": "250884"
+      },
+      "47": {
+        "prize": 1000,
+        "symbol1": "TXN",
+        "price1": "188.61",
+        "symbol2": "COST",
+        "price2": "392.07",
+        "combination": "861207",
+        "coupon_number": "950354"
+      },
+      "48": {
+        "prize": 1000,
+        "symbol1": "COST",
+        "price1": "392.07",
+        "symbol2": "TXN",
+        "price2": "188.61",
+        "combination": "207861",
+        "coupon_number": "233355"
+      },
+      "49": {
+        "prize": 1000,
+        "symbol1": "MDT",
+        "price1": "125.09",
+        "symbol2": "MS",
+        "price2": "87.08",
+        "combination": "509708",
+        "coupon_number": "245494"
+      },
+      "50": {
+        "prize": 1000,
+        "symbol1": "MS",
+        "price1": "87.08",
+        "symbol2": "MDT",
+        "price2": "125.09",
+        "combination": "708509",
+        "coupon_number": "963805"
+      },
+      "51": {
+        "prize": 1000,
+        "symbol1": "PM",
+        "price1": "99.03",
+        "symbol2": "QCOM",
+        "price2": "137.92",
+        "combination": "903792",
+        "coupon_number": "972104"
+      },
+      "52": {
+        "prize": 1000,
+        "symbol1": "QCOM",
+        "price1": "137.92",
+        "symbol2": "PM",
+        "price2": "99.03",
+        "combination": "792903",
+        "coupon_number": "973867"
+      },
+      "53": {
+        "prize": 1000,
+        "symbol1": "BMY",
+        "price1": "65.85",
+        "symbol2": "HON",
+        "price2": "217.69",
+        "combination": "585769",
+        "coupon_number": "993222"
+      },
+      "54": {
+        "prize": 1000,
+        "symbol1": "HON",
+        "price1": "217.69",
+        "symbol2": "BMY",
+        "price2": "65.85",
+        "combination": "769585",
+        "coupon_number": "136085"
+      }
+    },
+    "coupon_list": {
+      "233355": {
+        "number": "233355",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:29:26",
+        "type": "trader"
+      },
+      "963805": {
+        "number": "963805",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:29:46",
+        "type": "trader"
+      },
+      "490985": {
+        "number": "490985",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:30:00",
+        "type": "trader"
+      },
+      "925214": {
+        "number": "925214",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:30:16",
+        "type": "trader"
+      },
+      "414476": {
+        "number": "414476",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:30:33",
+        "type": "trader"
+      },
+      "797964": {
+        "number": "797964",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:30:48",
+        "type": "trader"
+      },
+      "443594": {
+        "number": "443594",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:31:02",
+        "type": "trader"
+      },
+      "494348": {
+        "number": "494348",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:31:33",
+        "type": "trader"
+      },
+      "398795": {
+        "number": "398795",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:31:57",
+        "type": "trader"
+      },
+      "348588": {
+        "number": "348588",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:32:20",
+        "type": "trader"
+      },
+      "642790": {
+        "number": "642790",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:32:31",
+        "type": "trader"
+      },
+      "551000": {
+        "number": "551000",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:32:43",
+        "type": "trader"
+      },
+      "620064": {
+        "number": "620064",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:33:25",
+        "type": "trader"
+      },
+      "148907": {
+        "number": "148907",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:33:42",
+        "type": "trader"
+      },
+      "368412": {
+        "number": "368412",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:33:55",
+        "type": "trader"
+      },
+      "391263": {
+        "number": "391263",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:34:10",
+        "type": "trader"
+      },
+      "166401": {
+        "number": "166401",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:34:27",
+        "type": "trader"
+      },
+      "950354": {
+        "number": "950354",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:34:42",
+        "type": "trader"
+      },
+      "017830": {
+        "number": "017830",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:34:58",
+        "type": "trader"
+      },
+      "269725": {
+        "number": "269725",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:35:09",
+        "type": "trader"
+      },
+      "045449": {
+        "number": "045449",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:35:25",
+        "type": "trader"
+      },
+      "252013": {
+        "number": "252013",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:35:38",
+        "type": "trader"
+      },
+      "766816": {
+        "number": "766816",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:35:54",
+        "type": "trader"
+      },
+      "136085": {
+        "number": "136085",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:36:08",
+        "type": "trader"
+      },
+      "497074": {
+        "number": "497074",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:36:20",
+        "type": "trader"
+      },
+      "250884": {
+        "number": "250884",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:36:31",
+        "type": "trader"
+      },
+      "859673": {
+        "number": "859673",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:36:44",
+        "type": "trader"
+      },
+      "279602": {
+        "number": "279602",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:37:00",
+        "type": "trader"
+      },
+      "542040": {
+        "number": "542040",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:37:14",
+        "type": "trader"
+      },
+      "838136": {
+        "number": "838136",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:37:27",
+        "type": "trader"
+      },
+      "245494": {
+        "number": "245494",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:37:46",
+        "type": "trader"
+      },
+      "993222": {
+        "number": "993222",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:37:59",
+        "type": "trader"
+      },
+      "973867": {
+        "number": "973867",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:38:21",
+        "type": "trader"
+      },
+      "176164": {
+        "number": "176164",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:38:38",
+        "type": "trader"
+      },
+      "943613": {
+        "number": "943613",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:38:52",
+        "type": "trader"
+      },
+      "780828": {
+        "number": "780828",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:39:07",
+        "type": "trader"
+      },
+      "987018": {
+        "number": "987018",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:39:20",
+        "type": "trader"
+      },
+      "493131": {
+        "number": "493131",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:39:40",
+        "type": "trader"
+      },
+      "861656": {
+        "number": "861656",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:39:51",
+        "type": "trader"
+      },
+      "093586": {
+        "number": "093586",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:40:03",
+        "type": "trader"
+      },
+      "905198": {
+        "number": "905198",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:40:15",
+        "type": "trader"
+      },
+      "552000": {
+        "number": "552000",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:40:28",
+        "type": "trader"
+      },
+      "972104": {
+        "number": "972104",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:40:39",
+        "type": "trader"
+      },
+      "663747": {
+        "number": "663747",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:40:50",
+        "type": "trader"
+      },
+      "353003": {
+        "number": "353003",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:41:02",
+        "type": "trader"
+      },
+      "475441": {
+        "number": "475441",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:41:15",
+        "type": "trader"
+      },
+      "749180": {
+        "number": "749180",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:41:36",
+        "type": "trader"
+      },
+      "415486": {
+        "number": "415486",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:41:51",
+        "type": "trader"
+      },
+      "771752": {
+        "number": "771752",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:42:18",
+        "type": "trader"
+      },
+      "112106": {
+        "number": "112106",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:42:31",
+        "type": "trader"
+      },
+      "254376": {
+        "number": "254376",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:42:47",
+        "type": "trader"
+      },
+      "897001": {
+        "number": "897001",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:42:59",
+        "type": "trader"
+      },
+      "344456": {
+        "number": "344456",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:43:12",
+        "type": "trader"
+      },
+      "317456": {
+        "number": "317456",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:43:25",
+        "type": "trader"
+      },
+      "685555": {
+        "number": "685555",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:43:45",
+        "type": "trader"
+      }
+    },
+    "coupon_count": 55
+  }, {
+    "alias": "aug",
+    "date_from": "2021-06-25 11:50:00",
+    "date_from_timestamp": "1624611000",
+    "date_to": "2021-08-31 23:59:59",
+    "date_to_timestamp": "1630443599",
+    "draw_date": "2021-09-03 00:00:00",
+    "draw_date_timestamp": "1630616400",
+    "status": "ongoing",
+    "is_visible": true,
+    "winning_combination_list": {
+      "1": {
+        "prize": 20000,
+        "symbol1": "AAPL",
+        "price1": "133.41",
+        "symbol2": "MSFT",
+        "price2": "266.69",
+        "combination": "341669",
+        "coupon_number": ""
+      },
+      "2": {
+        "prize": 15000,
+        "symbol1": "MSFT",
+        "price1": "266.69",
+        "symbol2": "AAPL",
+        "price2": "133.41",
+        "combination": "669341",
+        "coupon_number": ""
+      },
+      "3": {
+        "prize": 10000,
+        "symbol1": "AMZN",
+        "price1": "3,449.08",
+        "symbol2": "GOOGL",
+        "price2": "2,450.00",
+        "combination": "908000",
+        "coupon_number": ""
+      },
+      "4": {
+        "prize": 7500,
+        "symbol1": "GOOGL",
+        "price1": "2,450.00",
+        "symbol2": "AMZN",
+        "price2": "3,449.08",
+        "combination": "000908",
+        "coupon_number": ""
+      },
+      "5": {
+        "prize": 5000,
+        "symbol1": "FB",
+        "price1": "343.18",
+        "symbol2": "BRK-B",
+        "price2": "275.49",
+        "combination": "318549",
+        "coupon_number": ""
+      },
+      "6": {
+        "prize": 3000,
+        "symbol1": "BRK-B",
+        "price1": "275.49",
+        "symbol2": "FB",
+        "price2": "343.18",
+        "combination": "549318",
+        "coupon_number": ""
+      },
+      "7": {
+        "prize": 2500,
+        "symbol1": "TSLA",
+        "price1": "679.82",
+        "symbol2": "V",
+        "price2": "236.24",
+        "combination": "982624",
+        "coupon_number": ""
+      },
+      "8": {
+        "prize": 1000,
+        "symbol1": "V",
+        "price1": "236.24",
+        "symbol2": "TSLA",
+        "price2": "679.82",
+        "combination": "624982",
+        "coupon_number": ""
+      },
+      "9": {
+        "prize": 1000,
+        "symbol1": "NVDA",
+        "price1": "768.22",
+        "symbol2": "JPM",
+        "price2": "152.51",
+        "combination": "822251",
+        "coupon_number": ""
+      },
+      "10": {
+        "prize": 1000,
+        "symbol1": "JPM",
+        "price1": "152.51",
+        "symbol2": "NVDA",
+        "price2": "768.22",
+        "combination": "251822",
+        "coupon_number": ""
+      },
+      "11": {
+        "prize": 1000,
+        "symbol1": "JNJ",
+        "price1": "163.37",
+        "symbol2": "WMT",
+        "price2": "136.91",
+        "combination": "337691",
+        "coupon_number": ""
+      },
+      "12": {
+        "prize": 1000,
+        "symbol1": "WMT",
+        "price1": "136.91",
+        "symbol2": "JNJ",
+        "price2": "163.37",
+        "combination": "691337",
+        "coupon_number": ""
+      },
+      "13": {
+        "prize": 1000,
+        "symbol1": "UNH",
+        "price1": "398.87",
+        "symbol2": "MA",
+        "price2": "374.75",
+        "combination": "887475",
+        "coupon_number": ""
+      },
+      "14": {
+        "prize": 1000,
+        "symbol1": "MA",
+        "price1": "374.75",
+        "symbol2": "UNH",
+        "price2": "398.87",
+        "combination": "475887",
+        "coupon_number": ""
+      },
+      "15": {
+        "prize": 1000,
+        "symbol1": "PYPL",
+        "price1": "293.21",
+        "symbol2": "BAC",
+        "price2": "40.83",
+        "combination": "321083",
+        "coupon_number": ""
+      },
+      "16": {
+        "prize": 1000,
+        "symbol1": "BAC",
+        "price1": "40.83",
+        "symbol2": "PYPL",
+        "price2": "293.21",
+        "combination": "083321",
+        "coupon_number": ""
+      },
+      "17": {
+        "prize": 1000,
+        "symbol1": "PG",
+        "price1": "133.02",
+        "symbol2": "HD",
+        "price2": "311.84",
+        "combination": "302184",
+        "coupon_number": ""
+      },
+      "18": {
+        "prize": 1000,
+        "symbol1": "HD",
+        "price1": "311.84",
+        "symbol2": "PG",
+        "price2": "133.02",
+        "combination": "184302",
+        "coupon_number": ""
+      },
+      "19": {
+        "prize": 1000,
+        "symbol1": "DIS",
+        "price1": "177.93",
+        "symbol2": "ADBE",
+        "price2": "578.26",
+        "combination": "793826",
+        "coupon_number": ""
+      },
+      "20": {
+        "prize": 1000,
+        "symbol1": "ADBE",
+        "price1": "578.26",
+        "symbol2": "DIS",
+        "price2": "177.93",
+        "combination": "826793",
+        "coupon_number": ""
+      },
+      "21": {
+        "prize": 1000,
+        "symbol1": "CMCSA",
+        "price1": "56.06",
+        "symbol2": "XOM",
+        "price2": "64.52",
+        "combination": "606452",
+        "coupon_number": ""
+      },
+      "22": {
+        "prize": 1000,
+        "symbol1": "XOM",
+        "price1": "64.52",
+        "symbol2": "CMCSA",
+        "price2": "56.06",
+        "combination": "452606",
+        "coupon_number": ""
+      },
+      "23": {
+        "prize": 1000,
+        "symbol1": "KO",
+        "price1": "54.39",
+        "symbol2": "VZ",
+        "price2": "56.37",
+        "combination": "439637",
+        "coupon_number": ""
+      },
+      "24": {
+        "prize": 1000,
+        "symbol1": "VZ",
+        "price1": "56.37",
+        "symbol2": "KO",
+        "price2": "54.39",
+        "combination": "637439",
+        "coupon_number": ""
+      },
+      "25": {
+        "prize": 1000,
+        "symbol1": "CRM",
+        "price1": "243.77",
+        "symbol2": "INTC",
+        "price2": "56.07",
+        "combination": "377607",
+        "coupon_number": ""
+      },
+      "26": {
+        "prize": 1000,
+        "symbol1": "INTC",
+        "price1": "56.07",
+        "symbol2": "CRM",
+        "price2": "243.77",
+        "combination": "607377",
+        "coupon_number": ""
+      },
+      "27": {
+        "prize": 1000,
+        "symbol1": "NFLX",
+        "price1": "518.06",
+        "symbol2": "ORCL",
+        "price2": "77.74",
+        "combination": "806774",
+        "coupon_number": ""
+      },
+      "28": {
+        "prize": 1000,
+        "symbol1": "ORCL",
+        "price1": "77.74",
+        "symbol2": "NFLX",
+        "price2": "518.06",
+        "combination": "774806",
+        "coupon_number": ""
+      },
+      "29": {
+        "prize": 1000,
+        "symbol1": "CSCO",
+        "price1": "52.78",
+        "symbol2": "PFE",
+        "price2": "39.19",
+        "combination": "278919",
+        "coupon_number": ""
+      },
+      "30": {
+        "prize": 1000,
+        "symbol1": "PFE",
+        "price1": "39.19",
+        "symbol2": "CSCO",
+        "price2": "52.78",
+        "combination": "919278",
+        "coupon_number": ""
+      },
+      "31": {
+        "prize": 1000,
+        "symbol1": "LLY",
+        "price1": "232.97",
+        "symbol2": "T",
+        "price2": "28.79",
+        "combination": "297879",
+        "coupon_number": ""
+      },
+      "32": {
+        "prize": 1000,
+        "symbol1": "T",
+        "price1": "28.79",
+        "symbol2": "LLY",
+        "price2": "232.97",
+        "combination": "879297",
+        "coupon_number": ""
+      },
+      "33": {
+        "prize": 1000,
+        "symbol1": "NKE",
+        "price1": "133.60",
+        "symbol2": "PEP",
+        "price2": "145.67",
+        "combination": "360567",
+        "coupon_number": ""
+      },
+      "34": {
+        "prize": 1000,
+        "symbol1": "PEP",
+        "price1": "145.67",
+        "symbol2": "NKE",
+        "price2": "133.60",
+        "combination": "567360",
+        "coupon_number": ""
+      },
+      "35": {
+        "prize": 1000,
+        "symbol1": "ABBV",
+        "price1": "114.74",
+        "symbol2": "CVX",
+        "price2": "107.14",
+        "combination": "474714",
+        "coupon_number": ""
+      },
+      "36": {
+        "prize": 1000,
+        "symbol1": "CVX",
+        "price1": "107.14",
+        "symbol2": "ABBV",
+        "price2": "114.74",
+        "combination": "714474",
+        "coupon_number": ""
+      },
+      "37": {
+        "prize": 1000,
+        "symbol1": "ABT",
+        "price1": "111.70",
+        "symbol2": "MRK",
+        "price2": "76.36",
+        "combination": "170636",
+        "coupon_number": ""
+      },
+      "38": {
+        "prize": 1000,
+        "symbol1": "MRK",
+        "price1": "76.36",
+        "symbol2": "ABT",
+        "price2": "111.70",
+        "combination": "636170",
+        "coupon_number": ""
+      },
+      "39": {
+        "prize": 1000,
+        "symbol1": "AVGO",
+        "price1": "470.06",
+        "symbol2": "TMO",
+        "price2": "495.36",
+        "combination": "006536",
+        "coupon_number": ""
+      },
+      "40": {
+        "prize": 1000,
+        "symbol1": "TMO",
+        "price1": "495.36",
+        "symbol2": "AVGO",
+        "price2": "470.06",
+        "combination": "536006",
+        "coupon_number": ""
+      },
+      "41": {
+        "prize": 1000,
+        "symbol1": "DHR",
+        "price1": "267.35",
+        "symbol2": "TMUS",
+        "price2": "145.60",
+        "combination": "735560",
+        "coupon_number": ""
+      },
+      "42": {
+        "prize": 1000,
+        "symbol1": "TMUS",
+        "price1": "145.60",
+        "symbol2": "DHR",
+        "price2": "267.35",
+        "combination": "560735",
+        "coupon_number": ""
+      },
+      "43": {
+        "prize": 1000,
+        "symbol1": "ACN",
+        "price1": "291.56",
+        "symbol2": "WFC",
+        "price2": "45.18",
+        "combination": "156518",
+        "coupon_number": ""
+      },
+      "44": {
+        "prize": 1000,
+        "symbol1": "WFC",
+        "price1": "45.18",
+        "symbol2": "ACN",
+        "price2": "291.56",
+        "combination": "518156",
+        "coupon_number": ""
+      },
+      "45": {
+        "prize": 1000,
+        "symbol1": "UPS",
+        "price1": "206.10",
+        "symbol2": "MCD",
+        "price2": "233.33",
+        "combination": "610333",
+        "coupon_number": ""
+      },
+      "46": {
+        "prize": 1000,
+        "symbol1": "MCD",
+        "price1": "233.33",
+        "symbol2": "UPS",
+        "price2": "206.10",
+        "combination": "333610",
+        "coupon_number": ""
+      },
+      "47": {
+        "prize": 1000,
+        "symbol1": "TXN",
+        "price1": "188.61",
+        "symbol2": "COST",
+        "price2": "392.07",
+        "combination": "861207",
+        "coupon_number": ""
+      },
+      "48": {
+        "prize": 1000,
+        "symbol1": "COST",
+        "price1": "392.07",
+        "symbol2": "TXN",
+        "price2": "188.61",
+        "combination": "207861",
+        "coupon_number": ""
+      },
+      "49": {
+        "prize": 1000,
+        "symbol1": "MDT",
+        "price1": "125.09",
+        "symbol2": "MS",
+        "price2": "87.08",
+        "combination": "509708",
+        "coupon_number": ""
+      },
+      "50": {
+        "prize": 1000,
+        "symbol1": "MS",
+        "price1": "87.08",
+        "symbol2": "MDT",
+        "price2": "125.09",
+        "combination": "708509",
+        "coupon_number": ""
+      },
+      "51": {
+        "prize": 1000,
+        "symbol1": "PM",
+        "price1": "99.03",
+        "symbol2": "QCOM",
+        "price2": "137.92",
+        "combination": "903792",
+        "coupon_number": ""
+      },
+      "52": {
+        "prize": 1000,
+        "symbol1": "QCOM",
+        "price1": "137.92",
+        "symbol2": "PM",
+        "price2": "99.03",
+        "combination": "792903",
+        "coupon_number": ""
+      },
+      "53": {
+        "prize": 1000,
+        "symbol1": "BMY",
+        "price1": "65.85",
+        "symbol2": "HON",
+        "price2": "217.69",
+        "combination": "585769",
+        "coupon_number": ""
+      },
+      "54": {
+        "prize": 1000,
+        "symbol1": "HON",
+        "price1": "217.69",
+        "symbol2": "BMY",
+        "price2": "65.85",
+        "combination": "769585",
+        "coupon_number": ""
+      }
+    },
+    "coupon_list": {
+      "992143": {
+        "number": "992143",
+        "raffle_alias": "aug",
+        "cdate": "2021-06-25 11:57:37",
+        "type": "trader"
+      }
+    },
+    "coupon_count": 1
+  }, {
+    "alias": "sep",
+    "date_from": "2021-09-01 00:00:00",
+    "date_from_timestamp": "1630443600",
+    "date_to": "2021-09-30 23:59:59",
+    "date_to_timestamp": "1633035599",
+    "draw_date": "2021-10-01 00:00:00",
+    "draw_date_timestamp": "1633035600",
+    "status": null,
+    "is_visible": false,
+    "winning_combination_list": [],
+    "coupon_list": [],
+    "coupon_count": 0
+  }, {
+    "alias": "oct",
+    "date_from": "2021-10-01 00:00:00",
+    "date_from_timestamp": "1633035600",
+    "date_to": "2021-10-31 23:59:59",
+    "date_to_timestamp": "1635717599",
+    "draw_date": "2021-11-05 00:00:00",
+    "draw_date_timestamp": "1636063200",
+    "status": null,
+    "is_visible": false,
+    "winning_combination_list": [],
+    "coupon_list": [],
+    "coupon_count": 0
+  }, {
+    "alias": "nov",
+    "date_from": "2021-11-01 00:00:00",
+    "date_from_timestamp": "1635717600",
+    "date_to": "2021-11-30 23:59:59",
+    "date_to_timestamp": "1638309599",
+    "draw_date": "2021-12-03 00:00:00",
+    "draw_date_timestamp": "1638482400",
+    "status": null,
+    "is_visible": false,
+    "winning_combination_list": [],
+    "coupon_list": [],
+    "coupon_count": 0
+  }, {
+    "alias": "dec",
+    "date_from": "2021-12-01 00:00:00",
+    "date_from_timestamp": "1638309600",
+    "date_to": "2021-12-31 23:59:59",
+    "date_to_timestamp": "1640987999",
+    "draw_date": "2022-01-07 00:00:00",
+    "draw_date_timestamp": "1641506400",
+    "status": null,
+    "is_visible": false,
+    "winning_combination_list": [],
+    "coupon_list": [],
+    "coupon_count": 0
+  }, {
+    "alias": "jan",
+    "date_from": "2022-01-01 00:00:00",
+    "date_from_timestamp": "1640988000",
+    "date_to": "2022-01-31 23:59:59",
+    "date_to_timestamp": "1643666399",
+    "draw_date": "2022-02-04 00:00:00",
+    "draw_date_timestamp": "1643925600",
+    "status": null,
+    "is_visible": false,
+    "winning_combination_list": [],
+    "coupon_list": [],
+    "coupon_count": 0
+  }, {
+    "alias": "feb",
+    "date_from": "2022-02-01 00:00:00",
+    "date_from_timestamp": "1643666400",
+    "date_to": "2022-02-28 23:59:59",
+    "date_to_timestamp": "1646085599",
+    "draw_date": "2022-03-04 00:00:00",
+    "draw_date_timestamp": "1646344800",
+    "status": null,
+    "is_visible": false,
+    "winning_combination_list": [],
+    "coupon_list": [],
+    "coupon_count": 0
+  }, {
+    "alias": "mar",
+    "date_from": "2022-03-01 00:00:00",
+    "date_from_timestamp": "1646085600",
+    "date_to": "2022-03-31 23:59:59",
+    "date_to_timestamp": "1648760399",
+    "draw_date": "2022-04-01 00:00:00",
+    "draw_date_timestamp": "1648760400",
+    "status": null,
+    "is_visible": false,
+    "winning_combination_list": [],
+    "coupon_list": [],
+    "coupon_count": 0
+  }, {
+    "alias": "apr",
+    "date_from": "2022-04-01 00:00:00",
+    "date_from_timestamp": "1648760400",
+    "date_to": "2022-04-30 23:59:59",
+    "date_to_timestamp": "1651352399",
+    "draw_date": "2022-05-06 00:00:00",
+    "draw_date_timestamp": "1651784400",
+    "status": null,
+    "is_visible": false,
+    "winning_combination_list": [],
+    "coupon_list": [],
+    "coupon_count": 0
+  }]
+}

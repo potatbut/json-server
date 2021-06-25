@@ -1,0 +1,471 @@
+{
+  "raffle_list": [{
+    "alias": "jul",
+    "date_from": "2021-06-25 00:00:00",
+    "date_from_timestamp": "1624568400",
+    "date_to": "2021-06-25 11:49:59",
+    "date_to_timestamp": "1624610999",
+    "draw_date": "2021-06-25 11:50:59",
+    "draw_date_timestamp": "1624611059",
+    "status": "ended",
+    "is_visible": false,
+    "winning_combination_list": [],
+    "coupon_list": {
+      "233355": {
+        "number": "233355",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:29:26",
+        "type": "trader"
+      },
+      "963805": {
+        "number": "963805",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:29:46",
+        "type": "trader"
+      },
+      "490985": {
+        "number": "490985",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:30:00",
+        "type": "trader"
+      },
+      "925214": {
+        "number": "925214",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:30:16",
+        "type": "trader"
+      },
+      "414476": {
+        "number": "414476",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:30:33",
+        "type": "trader"
+      },
+      "797964": {
+        "number": "797964",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:30:48",
+        "type": "trader"
+      },
+      "443594": {
+        "number": "443594",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:31:02",
+        "type": "trader"
+      },
+      "494348": {
+        "number": "494348",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:31:33",
+        "type": "trader"
+      },
+      "398795": {
+        "number": "398795",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:31:57",
+        "type": "trader"
+      },
+      "348588": {
+        "number": "348588",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:32:20",
+        "type": "trader"
+      },
+      "642790": {
+        "number": "642790",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:32:31",
+        "type": "trader"
+      },
+      "551000": {
+        "number": "551000",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:32:43",
+        "type": "trader"
+      },
+      "620064": {
+        "number": "620064",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:33:25",
+        "type": "trader"
+      },
+      "148907": {
+        "number": "148907",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:33:42",
+        "type": "trader"
+      },
+      "368412": {
+        "number": "368412",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:33:55",
+        "type": "trader"
+      },
+      "391263": {
+        "number": "391263",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:34:10",
+        "type": "trader"
+      },
+      "166401": {
+        "number": "166401",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:34:27",
+        "type": "trader"
+      },
+      "950354": {
+        "number": "950354",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:34:42",
+        "type": "trader"
+      },
+      "017830": {
+        "number": "017830",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:34:58",
+        "type": "trader"
+      },
+      "269725": {
+        "number": "269725",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:35:09",
+        "type": "trader"
+      },
+      "045449": {
+        "number": "045449",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:35:25",
+        "type": "trader"
+      },
+      "252013": {
+        "number": "252013",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:35:38",
+        "type": "trader"
+      },
+      "766816": {
+        "number": "766816",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:35:54",
+        "type": "trader"
+      },
+      "136085": {
+        "number": "136085",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:36:08",
+        "type": "trader"
+      },
+      "497074": {
+        "number": "497074",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:36:20",
+        "type": "trader"
+      },
+      "250884": {
+        "number": "250884",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:36:31",
+        "type": "trader"
+      },
+      "859673": {
+        "number": "859673",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:36:44",
+        "type": "trader"
+      },
+      "279602": {
+        "number": "279602",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:37:00",
+        "type": "trader"
+      },
+      "542040": {
+        "number": "542040",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:37:14",
+        "type": "trader"
+      },
+      "838136": {
+        "number": "838136",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:37:27",
+        "type": "trader"
+      },
+      "245494": {
+        "number": "245494",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:37:46",
+        "type": "trader"
+      },
+      "993222": {
+        "number": "993222",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:37:59",
+        "type": "trader"
+      },
+      "973867": {
+        "number": "973867",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:38:21",
+        "type": "trader"
+      },
+      "176164": {
+        "number": "176164",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:38:38",
+        "type": "trader"
+      },
+      "943613": {
+        "number": "943613",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:38:52",
+        "type": "trader"
+      },
+      "780828": {
+        "number": "780828",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:39:07",
+        "type": "trader"
+      },
+      "987018": {
+        "number": "987018",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:39:20",
+        "type": "trader"
+      },
+      "493131": {
+        "number": "493131",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:39:40",
+        "type": "trader"
+      },
+      "861656": {
+        "number": "861656",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:39:51",
+        "type": "trader"
+      },
+      "093586": {
+        "number": "093586",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:40:03",
+        "type": "trader"
+      },
+      "905198": {
+        "number": "905198",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:40:15",
+        "type": "trader"
+      },
+      "552000": {
+        "number": "552000",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:40:28",
+        "type": "trader"
+      },
+      "972104": {
+        "number": "972104",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:40:39",
+        "type": "trader"
+      },
+      "663747": {
+        "number": "663747",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:40:50",
+        "type": "trader"
+      },
+      "353003": {
+        "number": "353003",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:41:02",
+        "type": "trader"
+      },
+      "475441": {
+        "number": "475441",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:41:15",
+        "type": "trader"
+      },
+      "749180": {
+        "number": "749180",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:41:36",
+        "type": "trader"
+      },
+      "415486": {
+        "number": "415486",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:41:51",
+        "type": "trader"
+      },
+      "771752": {
+        "number": "771752",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:42:18",
+        "type": "trader"
+      },
+      "112106": {
+        "number": "112106",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:42:31",
+        "type": "trader"
+      },
+      "254376": {
+        "number": "254376",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:42:47",
+        "type": "trader"
+      },
+      "897001": {
+        "number": "897001",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:42:59",
+        "type": "trader"
+      },
+      "344456": {
+        "number": "344456",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:43:12",
+        "type": "trader"
+      },
+      "317456": {
+        "number": "317456",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:43:25",
+        "type": "trader"
+      },
+      "685555": {
+        "number": "685555",
+        "raffle_alias": "jul",
+        "cdate": "2021-06-25 11:43:45",
+        "type": "trader"
+      }
+    },
+    "coupon_count": 55
+  }, {
+    "alias": "aug",
+    "date_from": "2021-06-25 11:50:00",
+    "date_from_timestamp": "1624611000",
+    "date_to": "2021-08-31 23:59:59",
+    "date_to_timestamp": "1630443599",
+    "draw_date": "2021-09-03 00:00:00",
+    "draw_date_timestamp": "1630616400",
+    "status": "ongoing",
+    "is_visible": true,
+    "winning_combination_list": [],
+    "coupon_list": {
+      "992143": {
+        "number": "992143",
+        "raffle_alias": "aug",
+        "cdate": "2021-06-25 11:57:37",
+        "type": "trader"
+      }
+    },
+    "coupon_count": 1
+  }, {
+    "alias": "sep",
+    "date_from": "2021-09-01 00:00:00",
+    "date_from_timestamp": "1630443600",
+    "date_to": "2021-09-30 23:59:59",
+    "date_to_timestamp": "1633035599",
+    "draw_date": "2021-10-01 00:00:00",
+    "draw_date_timestamp": "1633035600",
+    "status": null,
+    "is_visible": false,
+    "winning_combination_list": [],
+    "coupon_list": [],
+    "coupon_count": 0
+  }, {
+    "alias": "oct",
+    "date_from": "2021-10-01 00:00:00",
+    "date_from_timestamp": "1633035600",
+    "date_to": "2021-10-31 23:59:59",
+    "date_to_timestamp": "1635717599",
+    "draw_date": "2021-11-05 00:00:00",
+    "draw_date_timestamp": "1636063200",
+    "status": null,
+    "is_visible": false,
+    "winning_combination_list": [],
+    "coupon_list": [],
+    "coupon_count": 0
+  }, {
+    "alias": "nov",
+    "date_from": "2021-11-01 00:00:00",
+    "date_from_timestamp": "1635717600",
+    "date_to": "2021-11-30 23:59:59",
+    "date_to_timestamp": "1638309599",
+    "draw_date": "2021-12-03 00:00:00",
+    "draw_date_timestamp": "1638482400",
+    "status": null,
+    "is_visible": false,
+    "winning_combination_list": [],
+    "coupon_list": [],
+    "coupon_count": 0
+  }, {
+    "alias": "dec",
+    "date_from": "2021-12-01 00:00:00",
+    "date_from_timestamp": "1638309600",
+    "date_to": "2021-12-31 23:59:59",
+    "date_to_timestamp": "1640987999",
+    "draw_date": "2022-01-07 00:00:00",
+    "draw_date_timestamp": "1641506400",
+    "status": null,
+    "is_visible": false,
+    "winning_combination_list": [],
+    "coupon_list": [],
+    "coupon_count": 0
+  }, {
+    "alias": "jan",
+    "date_from": "2022-01-01 00:00:00",
+    "date_from_timestamp": "1640988000",
+    "date_to": "2022-01-31 23:59:59",
+    "date_to_timestamp": "1643666399",
+    "draw_date": "2022-02-04 00:00:00",
+    "draw_date_timestamp": "1643925600",
+    "status": null,
+    "is_visible": false,
+    "winning_combination_list": [],
+    "coupon_list": [],
+    "coupon_count": 0
+  }, {
+    "alias": "feb",
+    "date_from": "2022-02-01 00:00:00",
+    "date_from_timestamp": "1643666400",
+    "date_to": "2022-02-28 23:59:59",
+    "date_to_timestamp": "1646085599",
+    "draw_date": "2022-03-04 00:00:00",
+    "draw_date_timestamp": "1646344800",
+    "status": null,
+    "is_visible": false,
+    "winning_combination_list": [],
+    "coupon_list": [],
+    "coupon_count": 0
+  }, {
+    "alias": "mar",
+    "date_from": "2022-03-01 00:00:00",
+    "date_from_timestamp": "1646085600",
+    "date_to": "2022-03-31 23:59:59",
+    "date_to_timestamp": "1648760399",
+    "draw_date": "2022-04-01 00:00:00",
+    "draw_date_timestamp": "1648760400",
+    "status": null,
+    "is_visible": false,
+    "winning_combination_list": [],
+    "coupon_list": [],
+    "coupon_count": 0
+  }, {
+    "alias": "apr",
+    "date_from": "2022-04-01 00:00:00",
+    "date_from_timestamp": "1648760400",
+    "date_to": "2022-04-30 23:59:59",
+    "date_to_timestamp": "1651352399",
+    "draw_date": "2022-05-06 00:00:00",
+    "draw_date_timestamp": "1651784400",
+    "status": null,
+    "is_visible": false,
+    "winning_combination_list": [],
+    "coupon_list": [],
+    "coupon_count": 0
+  }]
+}
